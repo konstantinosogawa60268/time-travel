@@ -1,6 +1,6 @@
 {
   "name": "time-travel",
-  "version": "0.1.9",
+  "version": "0.1.10",
   "description": "A browser extension to spoof the current date, time and time zone seen by websites.",
   "main": "src/index.ts",
   "scripts": {
